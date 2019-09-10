@@ -19,3 +19,7 @@ BlockQuote
 ----------
 > What is blockquote? 
 >> I honestly don't know what blockquote is. 
+>>> But you can make cool stair of text. 
+>>>> Just like this! 
+
+Put > to use this amazing blockquote function!
