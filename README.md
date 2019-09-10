@@ -69,3 +69,13 @@ New Sentence.
 ***
 Sentence from future. 
 
+
+-I don' think I'm going to use this function much. It's for seperating page when  printing a document.
+
+
+
+Link
+----
+
+<https://github.com/absinthe4902?tab=repositories>
+
