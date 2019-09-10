@@ -22,7 +22,7 @@ BlockQuote
 >>> But you can make cool stair of text. 
 >>>> Just like this! 
 
-Put > to use this amazing blockquote function!
+-Put > to use this amazing blockquote function!
 
 
 List
@@ -31,8 +31,15 @@ List
 2. Second index
 3. Third index
 
+-Just plain numbering function. Add number in front of an index list.
+
 + First inedx
 + Second index
 + Third index
 
+-Dot list function. Add + in front of an index list.
+
+- First index
+- Second index
+- Third index
 
