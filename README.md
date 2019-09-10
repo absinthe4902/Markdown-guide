@@ -85,7 +85,16 @@ Link
 HighLight
 ---------
 Normal text/n
-*One time highlight*
+*One time highlight* 
 **Two time highlight**
-++Underline++
+***Three Time highlight***
+~~cancel~~
+
+Use * to highlight. Use ~~ to make cancel line.
+
+
+Image
+-----
+
+[logo]: https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg "Mona Lisa"
 
