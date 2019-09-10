@@ -34,8 +34,8 @@ List
 -Just plain numbering function. Add number in front of an index list.
 
 + First inedx
-  + Second index
-     + Third index
++ Second index
+ + Third index
 
 -Dot list function. Add + in front of an index list.
 
@@ -43,3 +43,9 @@ List
   - Second index
     - Third index
 
+-Various type of dot. Add + and press Tad key in every index. 
+
+* First index
+  -Second index
+    + Third index
+      = Last index
