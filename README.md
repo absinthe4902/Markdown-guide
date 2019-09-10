@@ -106,4 +106,10 @@ Looks like the Mona Lisa is't familiar for me. Here is the link! Go check what h
 <https://edition.cnn.com/style/article/isleworth-mona-lisa/index.html>
 
 
+
 ![so much fun](https://media.giphy.com/media/xT0BKiK5sOCVdBUhiM/giphy.gif)
+
+It's just the same with gif as well! You can put your favourite gif to decorate stiff readme if  you like.
+
+
+# **That's all for me! Have fun you amazing people!
