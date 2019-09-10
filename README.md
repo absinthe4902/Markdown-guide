@@ -97,5 +97,5 @@ Use * to highlight. Use ~~ to make cancel line.
 Image
 -----
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
 
