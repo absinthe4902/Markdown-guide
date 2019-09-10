@@ -34,8 +34,8 @@ List
 -Just plain numbering function. Add number in front of an index list.
 
 + First inedx
-+ Second index
-+ Third index
+  + Second index
+     + Third index
 
 -Dot list function. Add + in front of an index list.
 
