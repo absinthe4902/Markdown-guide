@@ -84,7 +84,7 @@ Link
 
 HighLight
 ---------
-Normal text
+Normal text/
 *One time highlight*
 **Two time highlight**
 ++Underline++
