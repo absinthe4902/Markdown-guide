@@ -89,6 +89,7 @@ Normal text/n
 **Two time highlight**
 ***Three Time highlight***
 ~~cancel~~
+"wht"
 
 Use * to highlight. Use ~~ to make cancel line.
 
@@ -96,5 +97,5 @@ Use * to highlight. Use ~~ to make cancel line.
 Image
 -----
 
-![picture]: https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg "Mona Lisa"
+![picture]: https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg 
 
