@@ -50,6 +50,8 @@ List
 Code block
 ----------
     Code blcok start.
- Keep use this function. 
- If you remove Tab, then you will see the end of code blcok.
+    See? Here is an awsome gray box!
+    This box is for code. 
+    System.out.println("Hello, World!");
+    If you want to end this box, then just cancel four types of space. 
 
