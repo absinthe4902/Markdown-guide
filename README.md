@@ -40,6 +40,6 @@ List
 -Dot list function. Add + in front of an index list.
 
 - First index
-- Second index
-- Third index
+  - Second index
+    - Third index
 
