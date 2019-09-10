@@ -97,5 +97,5 @@ Use * to highlight. Use ~~ to make cancel line.
 Image
 -----
 
-![Mona Lisa](https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1901,c_fill,g_auto,h_1069,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190906133333-isleworth-mona-lisa-crop.jpg)
+![Mona Lisa](https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1901,c_fill,g_auto,h_1069,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190906133333-isleworth-mona-lisa-crop.jpg){: width="100%" height="100%"}
 
