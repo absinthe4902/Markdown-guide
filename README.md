@@ -18,6 +18,21 @@ System.out.println("I think I can hide my long long css code using this")
 ```
 </details>
 
+```
+<details>
+<summary>Click here1</summary>
+```
+System.out.println("this is number one toggle"
+```
+</details>
+
+<details>
+<summary>Click here2</summary>
+```
+System.out.println("I think I can hide my long long css code using this")
+```
+</details>
+```
 
 Font size
 ---------
