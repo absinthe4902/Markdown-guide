@@ -5,15 +5,19 @@ Let's practice how to write a fancy readMe file.
 Toggle for markdown
 ---------
 <details>
-<summary>Click here1</summary>
-```
-System.out.println("this is number one toggle"
-```
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function whatIsLove() {
+      console.log('Baby Don't hurt me. Don't hurt me');
+      return 'No more';
+    }
+  ```
 </details>
 
 <details>
 <summary>Click here2</summary>
-    ```
+    ```java
     System.out.println("I think I can hide my long long css code using this")
     ```
 </details>
