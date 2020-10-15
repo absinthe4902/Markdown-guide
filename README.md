@@ -16,10 +16,11 @@ Toggle for markdown
 </details>
 
 <details>
-<summary>Click here2</summary>
-    ```java
+  <summary>Click here2</summary> 
+  
+  ```java
     System.out.println("I think I can hide my long long css code using this")
-    ```
+  ```
 </details>
 
 ```
