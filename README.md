@@ -13,9 +13,9 @@ System.out.println("this is number one toggle"
 
 <details>
 <summary>Click here2</summary>
-```
-System.out.println("I think I can hide my long long css code using this")
-```
+    ```
+    System.out.println("I think I can hide my long long css code using this")
+    ```
 </details>
 
 ```
